@@ -5,7 +5,7 @@ export class Serie {
     public channel: string,
     public seasons: number,
     public description: string,
-    public webPage: string,
-    public image: string
+    public webpage: string,
+    public poster: string
   ) {}
 }
